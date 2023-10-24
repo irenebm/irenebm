@@ -1,4 +1,4 @@
-### Hi there, I'm _Irene Bandera_ 👋
+### Hi there, I'm Irene Bandera 👋
 
 <!--
 **irenebm/irenebm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
