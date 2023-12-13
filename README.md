@@ -1,7 +1,8 @@
 ### Hi there, I'm Irene Bandera 👋
-[![Github](https://img.shields.io/github/followers/irenebm?label=Follow&style=social)](https://github.com/irenebm)
 
 🤖 As a Robotics Software Engineer, I thrive on turning innovative ideas into functional realities.
+
+[![Github](https://img.shields.io/github/followers/irenebm?label=Follow&style=social)](https://github.com/irenebm)
 
 <!--
 **irenebm/irenebm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
