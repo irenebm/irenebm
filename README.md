@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out my GitHub stats below:
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=irenebm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Irene's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenebm&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
