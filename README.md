@@ -1,4 +1,4 @@
-### Hi there, I'm Irene Bandera 👋
+### Hi there, I'm Irene Bandera Moreno 👋
 
 🤖 As a Robotics Software Engineer, I thrive on turning innovative ideas into functional realities.
 
